@@ -1,0 +1,9 @@
+
+www.dotabuff.com##.leaderboard_a.elo-placement
+
+cod.tracker.gg##.site-container > .bordered-ad
+cod.tracker.gg##aside
+cod.tracker.gg##div:nth-of-type(3) > .bordered-ad
+
+www.techradar.com##.jw-reset.jw-video
+www.techradar.com##.future__jwplayer--carousel
